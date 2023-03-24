@@ -28,21 +28,22 @@ What we'll being doing is creating a virtual machine using Azure, which will act
 </p>
 <br />
 
-Continue to "Networking" and scroll to "NIC network security group" and choose advanced. Click on "Create New". Remove the default inbound rule and then add a new inbound rule. We will create a new inbound rule which will allow all traffic from the internet into the VM. This will make our VM easily discoverable.
+Continue to "Networking" and scroll to "NIC network security group" and choose advanced. Click on "Create New". Remove the default inbound rule and then add a new inbound rule.  
 <p>
 <img src="https://imgur.com/2YE7ECP.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
-Remove the default inbound rule and then add a new inbound rule. We will create a new inbound rule which will allow all traffic in the VM.
+Remove the default inbound rule. We will create a new inbound rule which will allow all traffic from the internet into the VM. This will make it easily discoverable. Create the VM and let's move on to the next step.
 <p>
 <img src="https://imgur.com/R5EZQlp.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <br />
 
+Next, we're going to create a Log Analytics Workspace so that we can ingest logs from our VM. Then we're going to create our own custom log that contains geographic information. Logs will be stored here and our SIEM will connect to this workspace and then be able to display geodata on a map. So, naviagte to Log Analystics Workspace on Azure and create one.
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/a5wLtZJ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+
 </p>
 <br />
 
