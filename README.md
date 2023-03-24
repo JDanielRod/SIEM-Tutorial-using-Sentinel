@@ -28,7 +28,7 @@ What we'll being doing is creating a virtual machine using Azure, which will act
 </p>
 <br />
 
-Continue to "Networking" and scroll to "NIC network security group" and choose advanced. Click on "Create New". Remove the default inbound rule and then add a new inbound rule. We will create a new inbound rule which will allow all traffic in the VM.
+Continue to "Networking" and scroll to "NIC network security group" and choose advanced. Click on "Create New". Remove the default inbound rule and then add a new inbound rule. We will create a new inbound rule which will allow all traffic from the internet into the VM. This will make our VM easily discoverable.
 <p>
 <img src="https://imgur.com/2YE7ECP.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
