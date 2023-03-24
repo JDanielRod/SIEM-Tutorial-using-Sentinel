@@ -56,12 +56,12 @@ After, go to "Data Collection" and choose "All Events". Save changes.
 <img src="https://imgur.com/5FCuPYG.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 
-Next, we are going to connect our VM to our workspace. Naviagate to Log Analytics Workspace, then look for Virtual machines. Connect the VM.
+Next, we are going to connect our VM to our workspace. Naviagate to Log Analytics Workspace, then look for Virtual machines. Connect the VM. After that's finished connecting, we're going to set up Sentinel. (Its been renamed Microsoft Sentinel at the time of this being made.) Type in Microsoft Sentinel in Azure and create. Add it to our workspace.
 <p>
 <img src="https://imgur.com/VuTqDrL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+<img src="https://imgur.com/RYxtGU0.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <br />
 
