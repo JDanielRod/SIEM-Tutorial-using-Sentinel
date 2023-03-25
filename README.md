@@ -74,11 +74,12 @@ Cool! Now we're going to connect to our VM with RDP using the credentials create
 </p>
 <br />
 
+Okay, next we're going to turn off Windows Firewall on the VM so it can get discovered faster on the internet. Naviagte to Windows Defender Firewall and turn them off for the Domain, Private, and Public profiles. Before doing this, I initiated a ping -t command on my host computer to the VM to show that it was discoverable.
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/z1QtU7d.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+<img src="https://imgur.com/N8bdIxu.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <br />
 
