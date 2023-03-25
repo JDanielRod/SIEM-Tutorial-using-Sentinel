@@ -83,11 +83,12 @@ Okay, next we're going to turn off Windows Firewall on the VM so it can get disc
 </p>
 <br />
 
+Next, go here: https://github.com/joshmadakor1/Sentinel-Lab/blob/main/Custom_Security_Log_Exporter.ps1 and copy the Powershell Script. Open up PowerShell ISE on the VM and paste the script there. The API key will be different for everyone so go to: https://ipgeolocation.io/ and sign up to get your own API key and then paste it into the script. After, run the script. The script looks through the event logs and grabs all the failed logons, gets the IP addresses of them and geodata, and creates a new log file.
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/FsZ8CNh.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+<img src="https://imgur.com/VYX7pgF.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <br />
 
