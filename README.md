@@ -100,7 +100,7 @@ After, we're going to go back to Azure and create a custom log in our Log Analyt
 <img src="https://imgur.com/QBzqVHv.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <br />
-After 10 minute or so, run the custom log and we can see that they are coming through. Next, right-click on one of the logs and click "Extract fields...". Then for latitude, longitude, destination host, username, sourcehost, state, country, label, and timestamp, right- click the section and extract it. Search results show up after doing so. 
+After 10 minute or so, run the custom log and we can see that they are coming through. Next, right-click on one of the logs and click "Extract fields...". Then for latitude, longitude, destination host, username, sourcehost, state, country, label, and timestamp, right- click the section and extract it. Search results show up after doing so.  
 <p>
 <img src="https://imgur.com/QnnYEjC.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
@@ -112,8 +112,43 @@ After 10 minute or so, run the custom log and we can see that they are coming th
 <img src="https://imgur.com/3gnP0AD.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 
+When running the custom log again, click columns and check the fields we extracted so that the data is sparsed from the logs. After that, navigate to Sentinel and add a workbook. Then add a query. Copy the third slide below and then run.
 <p>
-<img src="https://imgur.com/3gnP0AD.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/MkfnDXt.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+<img src="https://imgur.com/1oetWky.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<img src="https://imgur.com/1oetWky.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+
+Click Visualization and choose "Map". Then for map settings, input the fields we extracted for longitude and latitude. Scroll further down and change metric label and metric value.
+<p>
+<img src="https://imgur.com/zC9NfUP.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+<img src="https://imgur.com/zXYFbCO.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
