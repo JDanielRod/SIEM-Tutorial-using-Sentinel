@@ -100,17 +100,20 @@ After, we're going to go back to Azure and create a custom log in our Log Analyt
 <img src="https://imgur.com/QBzqVHv.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <br />
-
+After 10 minute or so, run the custom log and we can see that they are coming through. Next, right-click on one of the logs and click "Extract fields...". Then for latitude, longitude, destination host, username, sourcehost, state, country, label, and timestamp, right- click the section and extract it. Search results show up after doing so. 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/QnnYEjC.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+<img src="https://imgur.com/ZdBHQFG.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
+<img src="https://imgur.com/Wma1T5F.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<p>
+<img src="https://imgur.com/3gnP0AD.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/3gnP0AD.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
