@@ -122,13 +122,14 @@ When running the custom log again, click columns and check the fields we extract
 <img src="https://imgur.com/1oetWky.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 
-Click Visualization and choose "Map". Then for map settings, input the fields we extracted for longitude and latitude. Scroll further down and change metric label and metric value.
+Click Visualization and choose "Map". Then for map settings, input the fields we extracted for longitude and latitude. Scroll further down and change metric label and metric value. Save the workbook. Now we wait for the VM to try to be logged into from the internet. We can wait a day or a couple hours. 
 <p>
 <img src="https://imgur.com/zC9NfUP.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 <img src="https://imgur.com/zXYFbCO.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
+<img src="https://imgur.com/SEdsGsT.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 
 <p>
