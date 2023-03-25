@@ -92,11 +92,12 @@ Next, go here: https://github.com/joshmadakor1/Sentinel-Lab/blob/main/Custom_Sec
 </p>
 <br />
 
+After, we're going to go back to Azure and create a custom log in our Log Analytics Workspace so that it can bring the custom log with the geodata into our workspace. Go to "Tables" then create a custom log (MMA-based). For the file, we're going to use the failed_rdp file created from the script earlier that can be found in the programdata folder on the VM. Copy the contents of the file and paste it to a notepad on your host machine. Then we can use it as our sample log. For the Collection path, it should look somethiing like this: C:\ProgramData\failed_rdp.log. Then create the log.
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/vzQyNKG.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+<img src="https://imgur.com/QBzqVHv.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <br />
 
