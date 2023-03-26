@@ -10,9 +10,9 @@ This tutorial outlines the implementation of Azure Sentinel and the creation of 
 
 <h2>Environments and Technologies Used</h2>
 
-- Microsoft Azure (Virtual Machines)
+- Microsoft Sentinel (SIEM)
+- Microsoft Azure (Virtual Machine)
 - Remote Desktop
-- Azure Sentinel(SIEM)
 
 <h2>Operating Systems Used </h2>
 
