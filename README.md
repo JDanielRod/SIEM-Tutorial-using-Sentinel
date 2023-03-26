@@ -132,7 +132,7 @@ Click Visualization and choose "Map". Then for map settings, input the fields we
 <img src="https://imgur.com/SEdsGsT.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 
-Okay, coming back after about 7 hours, we can observe that attacks have come in from Vietnam, India, Russia, and Germany. The majority of attacks have come from Vietnam which is pretty interesting. This goes to show that once something is on the internet, people will try to gain access no matter what. 
+Okay, coming back after about 7 hours, we can observe that attacks have come in from Vietnam, India, Russia, and Germany. The majority of attacks have come from Vietnam which is pretty interesting. If we kept the VM running longer, we can imagine that there would be more attacks logged. This goes to show that once something is on the internet, people will try to gain access no matter what. 
 <p>
 <img src="https://imgur.com/1GnV4KZ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
